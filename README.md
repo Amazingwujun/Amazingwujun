@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- ⚡ Java / golang / js
 - 🔭 I’m currently working on vking shanghai
 - 🌱 I’m currently learning golang
 - 🤔 I’m looking for help with my [MQTTX](https://github.com/Amazingwujun/mqttx) Project
