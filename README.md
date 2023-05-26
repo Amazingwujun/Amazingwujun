@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- ⚡ Java / golang / js
-- 🔭 I’m currently working on cloudwalk shuzhou
-- 🌱 I’m currently learning c++
+- ⚡ Java / c++ / golang / js
+- 🌱 I’m currently learning c++ and qt
 - 🤔 I’m looking for help with my [MQTTX](https://github.com/Amazingwujun/mqttx) Project
 - 💬 Ask me about mqtt\netty\java\springboot
 - 📫 How to reach me: 85998282@qq.com
